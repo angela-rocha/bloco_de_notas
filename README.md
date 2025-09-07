@@ -3,7 +3,7 @@ Um clássico bloco de notas
 
 <img width="1024" height="720" alt="bloco de notas" src="https://github.com/user-attachments/assets/81a9cea1-dc9b-4824-9f20-0a1a099b47be" />
 
-[Veja funcionando](https://angela-silva.github.io/bloco_de_notas/)
+## [Veja funcionando](https://angela-silva.github.io/bloco_de_notas/)
 
 # 📝 Bloco de Notas
 
